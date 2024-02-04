@@ -91,7 +91,7 @@ header p {
     cursor: pointer;
     margin-top: 20px;
     font-size: 17px;
-    background: #68ff36;
+    background: #64b566;
 }
 
 .qr-code {
@@ -122,7 +122,7 @@ header p {
     }
 
     .wrapper.active {
-        height: 510px;
+        height: 520px;
     }
 
     header p {
