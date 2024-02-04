@@ -13,14 +13,14 @@ body {
     pad: 0 10px;
     min-height: 100vh;
     align-items: center;
-    background: #eebdff;
+    background: #a0ff4d;
     justify-content: center;
 }
 
 /* Changing the selection color */
 ::selection {
     color: #fff;
-    background: #3498db;
+    background: #a0ff4d;
 }
 
 .wrapper {
@@ -81,7 +81,7 @@ header p {
     cursor: pointer;
     margin-top: 20px;
     font-size: 17px;
-    background: #c392d4;
+    background: #68ff36;
 }
 
 .qr-code {
