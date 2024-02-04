@@ -8,6 +8,14 @@
     font-family: 'Poppins', sans-serif;
 }
 
+h1 {
+    color: #fafafa;
+}
+
+h2 {
+    color: #fafafa;
+}
+
 body {
     display: flex;
     pad: 0 10px;
