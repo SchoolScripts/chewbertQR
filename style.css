@@ -45,7 +45,7 @@ header h1 {
 
 header p {
     margin-top: 5px;
-    color: #575757;
+    color: #dedede;
     font-size: 16px;
 }
 
@@ -92,7 +92,7 @@ header p {
     align-items: center;
     pointer-events: none;
     justify-content: center;
-    border: 1px solid #ccc;
+    border: 1px solid #eee;
 }
 
 .wrapper.active .qr-code {
@@ -116,7 +116,7 @@ header p {
     }
 
     header p {
-        color: #696969;
+        color: #aaa;
     }
 
     .form :where(input, button) {
