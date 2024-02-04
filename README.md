@@ -1,7 +1,7 @@
 # chewbertQR
  
-*No more paying for QR codes*
- Fast, instant QR codes for free
+*No more paying for QR codes*ㅤ
+ㅤFast, instant QR codes for free
 
 ## Usage
 1. Visit [ChewbertQR for Browser](https://chewbertqr.netlify.app) and use the input to generate a [QR code](https://en.wikipedia.org/wiki/QR_code)
