@@ -75,6 +75,7 @@ header p {
     font-size: 18px;
     padding: 0 17px;
     border: 1px solid #999;
+    color: #ddd;
 }
 
 .form input:focus {
